@@ -1,0 +1,41 @@
+.number_btn {
+    font-family: Arial;
+    font-size: 14px;
+    background-color: rgb(9, 145, 9);
+    color: white;
+    border: None;
+    cursor: pointer;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height:30px;
+    transition: padding 0.15s, margin 0.15s
+}
+.number_btn:hover {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.stretch_btn {
+    font-family: Arial;
+    font-size: 20px;
+    background-color: rgb(9, 145, 9);
+    color: white;
+    border: None;
+    cursor: pointer;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: padding-left 0.15s, padding-right 0.15s, padding-top 0.15s, padding-bottom 0.15s
+}
+.stretch_btn:hover {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
