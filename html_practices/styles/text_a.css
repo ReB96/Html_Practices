@@ -1,0 +1,16 @@
+.tahoma-font {
+    font-family: Tahoma;
+    font-size: 20px;
+    background-color: white;
+}
+.biggest-deals {
+    font-family: Arial;
+    line-height: 30px;
+    font-size: 25px;
+    width: 350px;
+}
+.biggest-deals-sales {
+    font-size: 20px;
+    color: rgb(246, 4, 4);
+    font-family: Arial, Helvetica, sans-serif;
+}
